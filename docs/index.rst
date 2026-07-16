@@ -4,6 +4,15 @@ How to Fix Google Chrome AdBlock Not Working Issue?
 
 AdBlock extensions are popular tools used by Google Chrome users to reduce unwanted advertisements while browsing websites. They help create a cleaner browsing experience by blocking pop-ups, banners, video ads, and other intrusive content. However, users may sometimes notice that their AdBlock extension stops working correctly. Ads may appear again, websites may load slowly, or the extension may fail to block specific advertisements.
 
+
+.. image:: https://img.shields.io/badge/Customer%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 300px
+   :align: center
+   :target: https://getchatsupport.live/
+   :alt: Support Button
+
+
+
 The AdBlock not working issue in Google Chrome can happen due to several reasons, including outdated extensions, incorrect settings, browser updates, website changes, conflicting extensions, or permission problems. In most cases, the issue can be fixed with simple troubleshooting steps.
 
 This guide explains why AdBlock may stop working in Chrome and provides effective solutions to restore its functionality.
